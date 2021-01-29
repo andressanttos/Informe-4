@@ -22,6 +22,7 @@
 
 3. DIAGRAMAS
 
+![](img/diagrama1.png)
 
 4. LISTA DE COMPONENTES
 
