@@ -31,14 +31,14 @@ Se hace uso de la ley de Ohm y la fórmula de la potencia para determinar la pot
 
 3. DIAGRAMAS
 
-*Diagrama general (circuito):
+*Diagrama general (circuito):*
 ![](img/diagrama1.png)
 
-*Simulación en Tinkercad (circuito):
+*Simulación en Tinkercad (circuito):*
 
 ![](https://github.com/andressanttos/Informe-4/blob/main/img/diagrama1.1.png)
 
-*Simulación en Tinkercad (conectando los multímetros)
+*Simulación en Tinkercad (conectando los multímetros):*
 
 ![](https://github.com/andressanttos/Informe-4/blob/main/img/diagrama2.png)
 
@@ -60,25 +60,25 @@ Se hace uso de la ley de Ohm y la fórmula de la potencia para determinar la pot
 
 ![](https://github.com/andressanttos/Informe-4/blob/main/img/expli5.png)
 
-*-Tabla Resultados obtenidos  
+*Tabla Resultados obtenidos*  
 
 ![](https://github.com/andressanttos/Informe-4/blob/main/img/tabla.png)
 
-*Cálculo de errores
+*Cálculo de errores*
 
 ![](https://github.com/andressanttos/Informe-4/blob/main/img/errores.png)
 
-*Preguntas:
+*Preguntas:*
 
-*¿Se cumple el Teorema de la Máxima Transferencia de Potencia? Argumente su respuesta.
+*¿Se cumple el Teorema de la Máxima Transferencia de Potencia? Argumente su respuesta.*
 
 En este e circuito no se cumple el teorema ya  que ninguna de nuestras resistencias RL tenia el valor  igual a la resistencia  interna de la fuente.
 
-*¿Cuál fue la potencia máxima en RL?
+*¿Cuál fue la potencia máxima en RL?*
 
 La potencia máxima fue 0.04648 W
 
-*¿Para qué valor de RL se obtiene la MTP?
+*¿Para qué valor de RL se obtiene la MTP?*
 
 Para la resistencia de 1kOhm
 
