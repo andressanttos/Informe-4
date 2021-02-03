@@ -2,22 +2,15 @@
 
 1.OBJETIVOS 
 
-• Analizar los datos en unacarga eléctrica para obtener la optimización del valor de lacarga   eléctrica   que   permita   la   máxima   transferencia   depotencia de  un  circuito a  la carga, modelado  mediante unequivalente de thévenin.
+• Analizar el circuito eléctrico presentado en el laboratorio junto a las resistencias y los demás materiales a usar, con fin de obtener el máximo valor de la potencia  eléctrica. Guiarnos de un simulador y modelar un equivalente de thevenin en la practica, haciendo uso de cada resistencia de carga y calcular su valor respectivo.  
 
-•	Determinar experimentalmente la condición necesaria para hallar la Máxima Transferencia de Potencia de un circuito eléctrico.
+•	Determinar experimentalmente la condición necesaria o aproximada de la resistencia de carga para hallar la Máxima Transferencia de Potencia del circuito eléctrico.
 
-Conocer los fundamentos básicos de este teorema.
+• Estudiar el comportamiento de un circuito DC mediante la aplicación del principio de la Máxima Transferencia de Potencia.
 
-Analizar el comportamiento de un circuito DC mediante la aplicación del principio de la Máxima Transferencia de Potencia.
+• Comprobar experimentalmente el Teorema de la Máxima Transferencia de Potencia denotando el error porcentual teórico y práctico.
 
-• 
-
-• .
-
-•	
-
-•	
-
+• Hacer uso de la teoria del tema a tratar.
 
 2.MARCO TEÓRICO
 
@@ -85,17 +78,13 @@ Para la resistencia de 1kOhm
 
 6. CONCLUSIONES:
 
-• El teorema de la máxima transferencia de potencia, se deriva del teorema de Thevenin y el de Norton, con un poco de cálculo elemental: llegamos a la conclusión que la máxima potencia se da cuando la carga toma de resistencia de igual a la resistencia de Thevenin o Norton.
+• El teorema de la máxima transferencia de potencia se deriva del teorema de Thevenin y el de Norton con algunos pasos extras de cáculo elemental. Llegamos a la demostración teórica, evidentemente la máxima potencia se originará cuando la  resistencia de carga tenga un valor semejante a la resistencia de Thevenin o Norton.
 
 • La potencia en la resistencia variable, depende de los valores del circuito equivalente de Thevenin.
 
 • También se estudio el término de eficiencia o rendimiento de una resistencia de carga.
 
-• Es recomendable el uso de potenciómetros ya que nos ayuda a facilitar a construir un circuito que se adecue con los valores de los elementos que se tiene a mano.
-
-• La potencia máxima será desarrolladaen la carga cuando  la resistencia decarga   RL   sea   iguala   la   resistenciainterna de la fuente Ri
-
-● Cuando   es   importante   obtener   lamáxima transferencia de potencia,la  resistencia  de   carga   debeadaptarse  a  la  resistencia  internaen las fuentes de voltaje
+• Cuando la resistencia de la carga es menor o mayor que la resistencia equivalente, la potencia se reduce, según ilustra la curva de la potencia eléctrica en funcion de su resistencia de carga.
 
 7. BIBLIOGRAFÍA
 
@@ -103,11 +92,7 @@ Para la resistencia de 1kOhm
 
 •Alulema Darwin (2020). Capítulo 3. Transferencia de Potencia Máxima. Págs (64-67) 
 
-•
-
-•
+•Salazar Gómez Antonio José.(2016). Universidad de los Andes. "THÉVENIN, NORTON Y MÁXIMA TRANSFERENCIA DE POTENCIA". Págs.(99-122)
 
 8. ANEXOS
-
-![](img
 
