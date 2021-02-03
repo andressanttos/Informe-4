@@ -17,7 +17,9 @@
 
 El teorema de transferencia de máxima potencia nos dice que para una fuente de voltaje dada, la potencia máxima se transfiere desde una fuente hasta una carga cuando la resistencia de la carga es igual a la resistencia interna de la fuente. Se adjunta mas información en el siguiente cuadro.  
 
-![](img/
+![](img/marco1.jpeg)
+
+Se hace uso de la ley de Ohm y la fórmula de la potencia para determinar la potencia suministrada a la carga (PL).
 
 ![](img/
 
