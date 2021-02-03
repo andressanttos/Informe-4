@@ -2,7 +2,13 @@
 
 1.OBJETIVOS 
 
-•	
+• Analizar los datos en unacarga eléctrica para obtener la optimización del valor de lacarga   eléctrica   que   permita   la   máxima   transferencia   depotencia de  un  circuito a  la carga, modelado  mediante unequivalente de thévenin.
+
+•	Determinar experimentalmente la condición necesaria para hallar la Máxima Transferencia de Potencia de un circuito eléctrico.
+
+Conocer los fundamentos básicos de este teorema.
+
+Analizar el comportamiento de un circuito DC mediante la aplicación del principio de la Máxima Transferencia de Potencia.
 
 • 
 
@@ -77,30 +83,27 @@ Para la resistencia de 1kOhm
 
 6. CONCLUSIONES:
 
-• 
+• El teorema de la máxima transferencia de potencia, se deriva del teorema de Thevenin y el de Norton, con un poco de cálculo elemental: llegamos a la conclusión que la máxima potencia se da cuando la carga toma de resistencia de igual a la resistencia de Thevenin o Norton.
 
-•	
+• La potencia en la resistencia variable, depende de los valores del circuito equivalente de Thevenin.
 
-•
-•
+• También se estudio el término de eficiencia o rendimiento de una resistencia de carga.
 
+• Es recomendable el uso de potenciómetros ya que nos ayuda a facilitar a construir un circuito que se adecue con los valores de los elementos que se tiene a mano.
 
+• La potencia máxima será desarrolladaen la carga cuando  la resistencia decarga   RL   sea   iguala   la   resistenciainterna de la fuente Ri
 
+● Cuando   es   importante   obtener   lamáxima transferencia de potencia,la  resistencia  de   carga   debeadaptarse  a  la  resistencia  internaen las fuentes de voltaje
 
 7. BIBLIOGRAFÍA
 
-•
+•Floyd, T. L., Salas, R. N., González, L. M. O., & López, G. P. (2007). Principios de circuitos eléctricos. Pearson Educación.
 
-•Alulema Darwin (2020). Capítulo 2. Ley de las Corrientes de Kirchhoff. Págs (56-77) 
-
-•
+•Alulema Darwin (2020). Capítulo 3. Transferencia de Potencia Máxima. Págs (64-67) 
 
 •
 
 •
-
-•Santos M. (2021). Tinkercad. Recuperado de: https://www.tinkercad.com/things/5c7HMBvtmsq-voltaje
-
 
 8. ANEXOS
 
