@@ -24,6 +24,14 @@
 
 ![](img/diagrama1.png)
 
+Simulación en Tinkercad (circuito)
+
+![](https://github.com/andressanttos/Informe-4/blob/main/img/diagrama1.1.png)
+
+Simulación en Tinkercad (conectado multímetros)
+
+![](https://github.com/andressanttos/Informe-4/blob/main/img/diagrama2.png)
+
 4. LISTA DE COMPONENTES
 
 ![](img/material%20y%20equipo.png)
