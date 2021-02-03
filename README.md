@@ -56,9 +56,21 @@ Simulación en Tinkercad (conectado multímetros)
 
 Cálculo de errores
 
+![](https://github.com/andressanttos/Informe-4/blob/main/img/errores.png)
 
+Preguntas
 
+¿Se cumple el Teorema de la Máxima Transferencia de Potencia? Argumente su respuesta.
 
+En este e circuito no se cumple el teorema ya  que ninguna de nuestras resistencias RL tenia el valor  igual a la resistencia  interna de la fuente.
+
+¿Cuál fue la potencia máxima en RL?
+
+La potencia máxima fue 0.04648 W
+
+¿Para qué valor de RL se obtiene la MTP?
+
+Para la resistencia de 1kOhm
 
 6. CONCLUSIONES:
 
