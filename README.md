@@ -21,7 +21,7 @@ El teorema de transferencia de máxima potencia nos dice que para una fuente de 
 
 Se hace uso de la ley de Ohm y la fórmula de la potencia para determinar la potencia suministrada a la carga (PL).
 
-![](img/
+![](img/marco2.jpeg)
 
 3. DIAGRAMAS
 
