@@ -38,18 +38,25 @@ Simulación en Tinkercad (conectado multímetros)
 
 5. EXPLICACIÓN 
 
+![](https://github.com/andressanttos/Informe-4/blob/main/img/diagrama1.png)
 
+![](https://github.com/andressanttos/Informe-4/blob/main/img/expli1.png)
 
+![](https://github.com/andressanttos/Informe-4/blob/main/img/expli2.png)
+
+![](https://github.com/andressanttos/Informe-4/blob/main/img/expli3.png)
+
+![](https://github.com/andressanttos/Informe-4/blob/main/img/expli4.png)
+
+![](https://github.com/andressanttos/Informe-4/blob/main/img/expli5.png)
 
 -Tabla Resultados obtenidos  
- 
- ![](img/
+
+![](https://github.com/andressanttos/Informe-4/blob/main/img/tabla.png)
+
+Cálculo de errores
 
 
-
-•Calculo del error porcentual 
-
-![](img/)
 
 
 
