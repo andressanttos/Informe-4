@@ -32,6 +32,7 @@ Se hace uso de la ley de Ohm y la fórmula de la potencia para determinar la pot
 3. DIAGRAMAS
 
 *Diagrama general (circuito):*
+
 ![](img/diagrama1.png)
 
 *Simulación en Tinkercad (circuito):*
