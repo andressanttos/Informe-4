@@ -15,6 +15,7 @@
 
 2.MARCO TEÓRICO
 
+El teorema de transferencia de máxima potencia nos dice que para una fuente de voltaje dada, la potencia máxima se transfiere desde una fuente hasta una carga cuando la resistencia de la carga es igual a la resistencia interna de la fuente. Se adjunta mas información en el siguiente cuadro.  
 
 ![](img/
 
