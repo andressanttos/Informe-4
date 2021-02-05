@@ -48,7 +48,7 @@ Se hace uso de la ley de Ohm y la fórmula de la potencia para determinar la pot
 
 ![](https://github.com/andressanttos/Informe-4/blob/main/img/expli2.png)
 
-![](https://github.com/andressanttos/Informe-4/blob/main/img/expli3.png)
+![](https://github.com/andressanttos/Informe-4/blob/main/img/arreglada.png)
 
 ![](https://github.com/andressanttos/Informe-4/blob/main/img/expli4.png)
 
